@@ -1,6 +1,6 @@
 # [Prédisez la demande en électricité](https://openclassrooms.com/fr/paths/65/projects/150/assignment) 
 
-# [PROJET EN COURS]
+## [PROJET EN COURS]
 
 #### Compétences évaluées : 
 
@@ -45,4 +45,4 @@ Les données météo que vous utiliserez pour corriger les données de l'effet t
 <br>
 
 ## Overview : 
-# [PROJET EN COURS]
+## [PROJET EN COURS]
