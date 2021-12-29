@@ -2,7 +2,7 @@
 
 # [PROJET EN COURS]
 
-📗 ***[Notebook](https://github.com/Gladouu/P9/blob/main/P9_01_code.ipynb)***
+▶📗 ***[Notebook](https://github.com/Gladouu/P9/blob/main/P9_01_code.ipynb)***
 
 #### Compétences évaluées : 
 
@@ -13,7 +13,7 @@
 
 <br>
 
-## Prérequis : 
+### Prérequis : 
 
 Pour effectuer ce projet, vous devrez maîtriser la manipulation de données en Python ou R, connaître la modélisation de type régression linéaire, ainsi que les différentes modélisations de séries temporelles (AR, MA, ARMA, ARIMA, etc.) 
 
