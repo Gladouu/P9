@@ -2,14 +2,18 @@
 
 # [PROJET EN COURS]
 
-📗 ***[Notebook](https://github.com/Gladouu/P9/blob/main/P9_01_code.ipynb)***
-
 #### Compétences évaluées : 
 
   - Maitriser les méthodes de lissage et la méthode de Holt-Winters
   - Maitriser les notions de composantes et de modèles de décomposition
   - Maitriser la méthode ARMA
   - Représenter graphiquement une série temporelle
+
+<br>
+
+## Notebook : 
+
+📗 ***[Analyse des données](https://github.com/Gladouu/P9/blob/main/P9_01_code.ipynb)***
 
 <br>
 
