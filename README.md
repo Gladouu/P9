@@ -2,7 +2,7 @@
 
 # [PROJET EN COURS]
 
-▶📗 ***[Notebook](https://github.com/Gladouu/P9/blob/main/P9_01_code.ipynb)***
+📗 ***[Notebook](https://github.com/Gladouu/P9/blob/main/P9_01_code.ipynb)***
 
 #### Compétences évaluées : 
 
