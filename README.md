@@ -9,9 +9,7 @@
   - Maitriser la méthode ARMA
   - Représenter graphiquement une série temporelle
 
-<br>
-
-### Prérequis : 
+#### Prérequis : 
 
 Pour effectuer ce projet, vous devrez maîtriser la manipulation de données en Python ou R, connaître la modélisation de type régression linéaire, ainsi que les différentes modélisations de séries temporelles (AR, MA, ARMA, ARIMA, etc.) 
 
