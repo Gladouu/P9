@@ -15,9 +15,7 @@
 
 Pour effectuer ce projet, vous devrez maîtriser la manipulation de données en Python ou R, connaître la modélisation de type régression linéaire, ainsi que les différentes modélisations de séries temporelles (AR, MA, ARMA, ARIMA, etc.) 
 
-<br>
-
-## Notebook : 
+#### Notebook : 
 
 📗 ***[Analyse des données](https://github.com/Gladouu/P9/blob/main/P9_01_code.ipynb)***
 
