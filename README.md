@@ -1,8 +1,6 @@
 # [Prédisez la demande en électricité](https://openclassrooms.com/fr/paths/65/projects/150/assignment) 
 
-# [PROJET EN COURS]
-
-📗 ***[Notebook](https://github.com/Gladouu/P9/blob/main/P9_01_code.ipynb)***
+### [PROJET EN COURS]
 
 #### Compétences évaluées : 
 
@@ -11,11 +9,13 @@
   - Maitriser la méthode ARMA
   - Représenter graphiquement une série temporelle
 
-<br>
-
-### Prérequis : 
+#### Prérequis : 
 
 Pour effectuer ce projet, vous devrez maîtriser la manipulation de données en Python ou R, connaître la modélisation de type régression linéaire, ainsi que les différentes modélisations de séries temporelles (AR, MA, ARMA, ARIMA, etc.) 
+
+#### Notebook : 
+
+📗 ***[Analyse des données](https://github.com/Gladouu/P9/blob/main/P9_01_code.ipynb)***
 
 <br>
 
@@ -41,4 +41,4 @@ Les données météo que vous utiliserez pour corriger les données de l'effet t
 <br>
 
 ## Overview : 
-# [PROJET EN COURS]
+### [PROJET EN COURS]
